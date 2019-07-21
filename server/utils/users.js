@@ -1,8 +1,3 @@
-[{
-    id: '/',
-    name: '',
-    room: ''
-}]
 
 class Users {
     constructor () {
